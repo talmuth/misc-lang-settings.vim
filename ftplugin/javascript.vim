@@ -4,6 +4,8 @@ set et
 
 "let g:loaded_javascript_syntax_checker = 1
 let g:syntastic_javascript_jsl_conf = fnamemodify(expand('<sfile>'), ':p:h') . "/../jsl.conf"
+let g:syntastic_javascript_jslint_conf = ""
+
 
 " Use jsl if the user has it installed
 " Use jsl if the user has it installed
