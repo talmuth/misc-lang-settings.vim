@@ -1,1 +1,1 @@
-source sh.vim
+runtime ftplugin/sh.vim
